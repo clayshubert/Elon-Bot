@@ -1,9 +1,9 @@
 var commando = require('discord.js-commando');
 var elonBot = new commando.Client();
 
-const token = 'NDYwODMxNDEzNTcxMjg5MDg4.DhKeRQ.xFoAtfHumA_be6BB-5eP7BWcMOA';
+const token = 'YOUR_BOT_TOKEN';
 
-var BOT_TOKEN = 'NDYwODMxNDEzNTcxMjg5MDg4.DhKeRQ.xFoAtfHumA_be6BB-5eP7BWcMOA'
+var BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 elonBot.login(process.env.BOT_TOKEN);
 
